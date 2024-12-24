@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 1440px;
+    margin: auto;
+   
+    padding: 218px 528px;
+    background: linear-gradient(left to right, #0ccdf0,#ffde59)
+    
+}
+.container {
+    padding: 24px 24px 298px 24px;
+    border-radius: 10px 0px 0px 0px;
+    border-radius: 20px;
+    box-shadow: 8px 8px 0px 0px;
+    border: 1px 0px 0px 0px;
+    border: 1px solid black
+
+}
+
+.container img { 
+    margin-bottom: 24px;
+
+}
+.container a{
+    background: var(--Yellow, #F4D04E);
+    color: black;
+    font-size: 14px;
+    font-weight: 800;
+    padding: 4px 12px;
+    border-radius: 4px;
+    text-decoration: none;
+
+}
+.container p{
+    margin-top: 12px;
+    font-family: Figtree;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    text-align: left;
+
+}
+.container h3{
+    margin-top: 12px;
+    font-family: Figtree;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+.p1{
+    font-family: Figtree;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-block: 12px;
+}
+.userpic {
+    
+}

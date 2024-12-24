@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 1110px;
+}
+.hepsi{
+    margin-left: 165px;
+    margin-top: 80px;
+}
+.baslik {
+    gap: 16px;
+}
+.farok{
+    gap: 642px;
+    vertical-align: middle;
+}
+
+.mac{
+    border-radius: 12px;
+    width: 1110px;
+    height: 624px;
+    margin-top: 50px;
+}
+.firsttext{
+    margin-top: 24px;
+    width: 1110px;
+    height: 384px;
+}
+.imac{
+margin-top: -150px
+}
+.backgroundtext{
+    width: 1110px;
+    height: 347px;
+    margin-top: 50px;
+}
+.videowatch{
+    margin-top: 48px;
+}
+.video{
+    margin-top: 48px;
+}
